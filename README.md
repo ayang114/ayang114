@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hello, my name is Austin Yang :^))](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
