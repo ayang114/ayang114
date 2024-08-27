@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=39c5bb&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Austin!+:^%29)](https://git.io/typing-svg)
+
+
 <h1 align="center">👋 Hi, I'm Austin :^)</h1>
 <h3 align="center">Next Steps: Still Deciding</h3>
 
