@@ -1,5 +1,5 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=39c5bb&lines=Hi%2C+👋+I%E2%80%99m+Austin!+:^%29" alt="Typing SVG"></a></h1>
-<h2 style="color:#39c5bb;">Next Steps: Still Deciding</h2>
+<h2 style="color:#39c5bb">Next Steps: Still Deciding</h2>
 <h3>However...</h3>
 - 🔭 I’m currently working on **making a Raspberry Pi NAS**
 
