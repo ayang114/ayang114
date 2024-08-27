@@ -9,7 +9,8 @@
 - ⚡ Fun fact **I collect LP!**
 
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=39c5bb&lines=Hi%2C+👋+I%E2%80%99m+Austin!+:^%29"alt="Typing SVG"></a></h1><h3 align="center">Next Steps: Still Deciding</h3>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=39c5bb&lines=Hi%2C+👋+I%E2%80%99m+Austin!+:^%29"alt="Typing SVG"></a></h1><h2 align="center">Next Steps: Still Deciding</h2>
+<h3>Next Steps: Still Deciding</h3>
 
 - 🔭 I’m currently working on **making a Raspberry Pi NAS**
 
