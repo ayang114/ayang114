@@ -1,18 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0366d6&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Austin!+:^%29)](https://git.io/typing-svg)
+<h1 align="center">👋 Hi, I'm Austin :^)</h1>
+<h3 align="center">Next Steps: Still Deciding</h3>
 
-Coding and building random things
+- 🔭 I’m currently working on **making a Raspberry Pi NAS**
 
-<!--
-**ayang114/ayang114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **in-depth hardware components**
 
-Here are some ideas to get you started:
+- 🤝 I’m interested in **SysAdmin Materials**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I collect LP!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
