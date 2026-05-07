@@ -2,7 +2,7 @@
 <h1>
   <(•) 
     <br>
-  (  >    )
+&nbsp;&nbsp;&nbsp;&nbsp;(  >    )
   </h1>
 <h2 align="left">Next 
 Steps: Still Deciding</h2>
