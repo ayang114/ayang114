@@ -1,9 +1,8 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=39c5bb&lines=Hi%2C+👋+I%E2%80%99m+Austin!+:^%29"alt="Typing SVG"></a></h1>
 <h1 align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&lt;(•)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &lt;(•)&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&lt;(•)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &lt;(•)
   <br>
-  &nbsp;( &lt; )&nbsp;&nbsp;&nbsp;&nbsp;( &lt; )&nbsp;&nbsp;&nbsp;&nbsp;( &lt; )
+  &nbsp;( &lt; )
 </h1>
 <h2 align="left">Next 
 Steps: Still Deciding</h2>
