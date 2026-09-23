@@ -4,17 +4,6 @@
   <br>
   &nbsp;( &lt; )
 </h1>
-<h2 align="left">Next 
-Steps: Still Deciding</h2>
-<h3>However...</h3>
-
-- 🔭 I’m currently working on **automations~**
-
-- 🌱 I’m currently learning **everything ;-;**
-
-- 🤝 I’m interested in **everything ig?**
-
-- ⚡ Fun fact: **I got a cat**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/411-austin-yang/" target="_blank" rel="noreferrer">
